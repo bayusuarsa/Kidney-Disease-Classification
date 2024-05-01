@@ -160,8 +160,3 @@ cython_debug/
 #.idea/
 
 artifacts/*
-
-#DVC
-.dvcignore
-dvc.lock
-.dvc/*
